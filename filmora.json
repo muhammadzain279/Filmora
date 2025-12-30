@@ -1,10 +1,6 @@
 {
-  "show": true,
-  "force": true,
-  "title": "ZAIN VOICE",
-  "message": "Join Telegram\nhttps://t.me/ZainVoice2\n\nNote:\nHar bar voice generate karne ke baad\napp ka data clear karke dobara generate karein",
-  "button": "JOIN",
-  "action": "open_url",
-  "url": "https://t.me/ZainVoice2",
-  "version": 1
+  "versionName": "1.0",
+  "versionCode": 99999,
+  "updateNotes": "ZAIN VOICE\n\nJoin Telegram\nhttps://t.me/ZainVoice2\n\nNote:\nHar bar voice generate karne ke baad\napp ka data clear karke dobara generate karein",
+  "url": "https://t.me/ZainVoice2"
 }
